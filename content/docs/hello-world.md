@@ -10,7 +10,7 @@ The smallest React example looks like this:
 
 ```js
 ReactDOM.render(
-  <h1>Hello, world!</h1>,
+  <h1>Ik wil dood</h1>,
   document.getElementById('root')
 );
 ```
